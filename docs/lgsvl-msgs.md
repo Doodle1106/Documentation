@@ -20,7 +20,7 @@ The package contains the following definitions:
 `lgsvl_msgs` is built by the ROS build farm. Binaries can be installed on Ubuntu as follows:
 ```bash
 sudo apt update
-sudo apt install ros-$ROS_DISTRO-lgsvl_msgs
+sudo apt install ros-$ROS_DISTRO-lgsvl-msgs
 ```
 
 **Note:** It may take up to a week for the builds to become available after a release.
